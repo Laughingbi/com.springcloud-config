@@ -31,3 +31,7 @@ management:
     web:
       exposure:
         include: "bus-refresh"
+        
+        
+config：
+    info:"调用配置中的配置进行显示"
