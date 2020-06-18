@@ -34,4 +34,4 @@ management:
         
         
 config：
-    info:"调用配置中的配置进行显示"
+  info:"调用配置中的配置进行显示"
